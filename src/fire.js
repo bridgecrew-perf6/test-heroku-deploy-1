@@ -3,12 +3,13 @@ import "firebase/compat/app";
 import "firebase/compat/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCUqFLo5KX2dSiH27-mHwBCvpVG9yFfe0w",
-  authDomain: "react-fire-auth-bf2f6.firebaseapp.com",
-  projectId: "react-fire-auth-bf2f6",
-  storageBucket: "react-fire-auth-bf2f6.appspot.com",
-  messagingSenderId: "735756672456",
-  appId: "1:735756672456:web:1c0eec6e7250b6589934fd",
+  apiKey: "AIzaSyBMBhYymrhIqfVz_6L_ccWsQV0iGEIMB3Y",
+  authDomain: "react-hackaton.firebaseapp.com",
+  projectId: "react-hackaton",
+  storageBucket: "react-hackaton.appspot.com",
+  messagingSenderId: "412491220677",
+  appId: "1:412491220677:web:2c331ff50212d6f7f412ac",
+  measurementId: "G-6E9RS4ZT40",
 };
 
 export default fire.initializeApp(firebaseConfig);
